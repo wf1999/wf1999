@@ -1,9 +1,13 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wf1999&show_icons=true&theme=radical">
+
 - 👋 Hi, I’m @wf1999
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wf1999&show_icons=true&theme=radical)
+
+
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wf1999&show_icons=true&theme=radical) -->
 
 
 <!---
